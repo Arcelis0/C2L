@@ -1,2 +1,2 @@
 # C2L
-ID converter for Cathook and Lmaobox
+Usage: Python C2L.py, It's pretty self-explanatory.
